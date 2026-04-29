@@ -1,5 +1,5 @@
 <p align="center"><img src="public/images/favicon-no-bg.svg" width="80"></p>
-<h1 align="center">BentoPDF</h1>
+<h1 align="center">KueSusPDF</h1>
 <p align="center">
   <a href="https://www.digitalocean.com/?refcode=d93c189ef6d0&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
     <img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge">
