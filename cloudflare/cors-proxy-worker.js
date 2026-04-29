@@ -21,8 +21,7 @@ const ALLOWED_PATH_PATTERNS = [
   /\/crl/i,
   /caIssuers/i,
 ];
-
-const ALLOWED_ORIGINS = ['https://www.bentopdf.com', 'https://bentopdf.com'];
+const ALLOWED_ORIGINS = ['https://pdf.kues.us'];
 
 const SAFE_CONTENT_TYPES = [
   'application/x-x509-ca-cert',

@@ -51,3 +51,4 @@ bentopdf-*.tgz
 # test 
 dist-test
 test
+public/images/pdf-kuesus.png
